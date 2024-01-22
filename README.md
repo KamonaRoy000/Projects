@@ -3,7 +3,7 @@
 # Course Title : Software Engineering 
 ## Course Code : CSE 305
 ## Project Proposal : A Recipe and Health Management System
-This model is helpful for the people who are confused about making recipe.Sometimes we become puzzeled that we have some food ingredients but we do not know how to use it or what recipe can be maked by them,This model will help to make recipe and also will help to maintain good food habit.
+This model is helpful for the people who are confused about making recipe.Sometimes we become puzzeled that we have some food ingredients but we do not know how to use it or what recipe can be made by them,This model will help to make recipe and also will help to maintain good food habit.
 
 ### Applied Waterfall SDLC Model :
 ![Capture4](https://github.com/KamonaRoy000/Projects/assets/130241636/027dace3-3d15-45fa-aa8f-caa7a9b699b8)
@@ -60,14 +60,14 @@ This model is helpful for the people who are confused about making recipe.Someti
 -	Address any issues or bugs reported by users’ post-deployment.
 -	Implement patches or updates as needed.
 # Submitted By
-Kamona Rani Roy  
-ID :2002028  
-Level :3 Semester :I
+**Kamona Rani Roy**  
+**ID :2002028**  
+**Level :3 Semester :I**  
 
 # Submitted To
-Pankaj Bhowmik  
-Lecturer  
-Department of Computer Science and Engineering  
-HSTU
+**Pankaj Bhowmik**    
+**Lecturer**   
+**Department of Computer Science and Engineering**   
+**HSTU**  
 
 
