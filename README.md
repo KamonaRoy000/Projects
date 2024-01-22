@@ -2,7 +2,7 @@
 ![297860155-f6750f4c-8667-428a-93a2-3d7b7a5d4fb1](https://github.com/KamonaRoy000/Projects/assets/130241636/3f1cfba4-a696-4123-8ab2-8a731bc92e5a)
 # Course Title : Software Engineering 
 ## Course Code : CSE 305
-## Project Proposal : A Recipe and Health Management System
+## Project Proposal : Mr.CHEF
 This model is helpful for the people who are confused about making recipe.Sometimes we become puzzeled that we have some food ingredients but we do not know how to use it or what recipe can be made by them,This model will help to make recipe and also will help to maintain good food habit.
 
 ### Applied Waterfall SDLC Model :
