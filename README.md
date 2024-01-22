@@ -21,7 +21,7 @@ Using the Agile Software Development Life Cycle (SDLC) model for a project relat
 #### User interface Design
 
 - Created a userfree user interface
-  (https://github.com/KamonaRoy000/Projects/files/14006107/ES.pptx)
+  ![Capture1](https://github.com/KamonaRoy000/Projects/assets/130241636/f2c28db5-bdb8-46af-b34b-80b630eb95c5)
 
 
 #### System architecture design
