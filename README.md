@@ -20,10 +20,12 @@ Using the Agile Software Development Life Cycle (SDLC) model for a project relat
 ### 2.Design
 #### User interface Design
 
-- ned a userfree user interface
+- Created a userfree user interface
 Desig![Capture](https://github.com/KamonaRoy000/Projects/assets/130241636/b3a4f6f4-5716-444e-83a2-b723deb28f99)
 #### System architecture design
 - Using class diagram designed a System Architecture design
+  ![Capture2](https://github.com/KamonaRoy000/Projects/assets/130241636/2e341cc8-b946-4628-af17-99d3b1467f0e)
+
 #### Database design
 - For keep track of the records of the recipe and health issues used a databased and the databsed is designed by class diagram
 ### 3.Development
