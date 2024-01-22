@@ -6,7 +6,8 @@
 This model is helpful for the people who are confused about making recipe.Sometimes we become puzzeled that we have some food ingredients but we do not know how to use it or what recipe can be maked by them,This model will help to make recipe and also will help to maintain good food habit.
 
 ### Applied Waterfall SDLC Model :
-![Capture2](https://github.com/KamonaRoy000/Projects/assets/130241636/24adc0d5-6036-4fcb-a17e-6c208e9656f0)
+![Capture4](https://github.com/KamonaRoy000/Projects/assets/130241636/027dace3-3d15-45fa-aa8f-caa7a9b699b8)
+
 ## Here are some reasons why  might choose to use the Waterfall model for such a project:
 ![Capture3](https://github.com/KamonaRoy000/Projects/assets/130241636/be79fe75-6c14-4cc6-b12d-f4be2fe65b44)
 ### 1.Requirements 
