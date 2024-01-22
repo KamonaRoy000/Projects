@@ -8,6 +8,7 @@ This model is helpful for the people who are confused about making recipe.Someti
 ### Applied Agile SDLC Model :
 Using the Agile Software Development Life Cycle (SDLC) model for a project related to recipe making and a good food system can offer several advantages due to its flexibility, iterative nature, and customer-centric approach.
 
+
 ### 1.Requirements 
 - The user will give ingridients as input ,the software will make recipe
 - The user will give  no of people as input ,the software will give total amount of ingridients required
@@ -18,7 +19,9 @@ Using the Agile Software Development Life Cycle (SDLC) model for a project relat
 
 ### 2.Design
 #### User interface Design
-- Designed a userfree user interface
+
+- ned a userfree user interface
+Desig![Capture](https://github.com/KamonaRoy000/Projects/assets/130241636/b3a4f6f4-5716-444e-83a2-b723deb28f99)
 #### System architecture design
 - Using class diagram designed a System Architecture design
 #### Database design
