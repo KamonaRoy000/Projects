@@ -26,7 +26,7 @@ Using the Agile Software Development Life Cycle (SDLC) model for a project relat
 
 #### System architecture design
 - Using class diagram designed a System Architecture design
-  ![Capture1](https://github.com/KamonaRoy000/Projects/assets/130241636/0c0b93d0-acad-42a1-a839-a75b0fd8c92b)
+  ![Capture](https://github.com/KamonaRoy000/Projects/assets/130241636/0ac12f61-1869-4018-8e72-8299f7eca1cb)
 
 
 #### Database design
